@@ -95,6 +95,15 @@ footer{
     
     
 }
+.set{
+    padding-top:70px;
+    }
+ footer{
+  margin-top:6%;
+  text-align: center;
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
 
   
 }
